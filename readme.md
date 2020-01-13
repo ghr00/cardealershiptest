@@ -1,6 +1,6 @@
 # Cardealershiptest par Amine Yahemdi
 
-![Imgur](https://imgur.com/7TInbB4)
+![Imgur](https://i.imgur.com/7TInbB4.png)
 
 Ce projet est un prototype de ce qui pourrait être une application simple de gestion d'un concessionnaire de véhicule. Elle a été créé en JAVA et utilise SWT et JDBC.
 
@@ -21,4 +21,4 @@ Il est possible d'ajouter :
 2. Un modèle de véhicule lié à une marque (Ex:Clio)
 3. Un véhicule possédant une marque et un modèle, il est aussi possible de spécifier son prix.
 
-Cette même base de donnée est la même que celle au quel est connecté le siteweb vehicletestweb.
+Cette même base de donnée est la même que celle au quel est connecté le siteweb vehicletestweb
