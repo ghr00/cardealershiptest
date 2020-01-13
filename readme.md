@@ -9,6 +9,8 @@ L'application est connectable à un serveur de base de donnée MySQL.  L'afficha
 
 ## Description
 
+![Imgur](https://i.imgur.com/UOqMUap.png)
+
 L'application possède quatre fonctionnalités principales :
 1. Ajout d'une donnée dans la base de donnée
 2. Modification d'une donnée dans la base de donnée
