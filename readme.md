@@ -4,7 +4,7 @@
 
 Ce projet est un prototype de ce qui pourrait être une application simple de gestion d'un concessionnaire de véhicule. Elle a été créé en JAVA et utilise SWT et JDBC.
 
-L'application est connectable à un serveur de base de donnée MySQL.  L'affichage du catalogue des véhicules d'occasion créé se fait sur un siteweb ; un autre projet lié au cardealershiptest : [vehicletestweb](vehicletestweb).
+L'application est connectable à un serveur de base de donnée MySQL.  L'affichage du catalogue des véhicules d'occasion créé se fait sur un siteweb ; un autre projet lié au cardealershiptest : [vehicletestweb](https://github.com/ghr00/vehicletestweb/).
 
 
 ## Description
@@ -23,4 +23,4 @@ Il est possible d'ajouter :
 2. Un modèle de véhicule lié à une marque (Ex:Clio)
 3. Un véhicule possédant une marque et un modèle, il est aussi possible de spécifier son prix.
 
-Cette même base de donnée est la même que celle au quel est connecté le siteweb [vehicletestweb](vehicletestweb).
+Cette même base de donnée est la même que celle au quel est connecté le siteweb [vehicletestweb](https://github.com/ghr00/vehicletestweb/).
